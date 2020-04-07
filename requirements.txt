@@ -1,0 +1,8 @@
+langdetect
+inflect
+pandas
+nltk
+keras
+scrapy
+configparser
+flask
